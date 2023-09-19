@@ -1,2 +1,5 @@
 images/test
 images/train
+pre-trained-models/
+models/
+exported-models/
